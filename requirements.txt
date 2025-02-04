@@ -2,3 +2,6 @@ pandas
 matplotlib
 openpyxl
 seaborn
+statsmodels
+pmdarima
+numpy==1.26.4
